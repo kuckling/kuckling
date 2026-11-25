@@ -5,7 +5,7 @@
 Construyo herramientas de bajo costo que resuelven problemas reales en Guatemala: certificación académica, agua, café, clima y astronomía. Todo abierto, todo con datos reales.
 
 - 📍 Gualán, Zacapa, Guatemala
-- 🎓 Ingeniero Industrial — Universidad Virtual del Estado de Guanajuato (UVEG), México
+- 🎓 Ingeniero Industrial — (UVEG), México
 - ⚖️ Estudiante de último año de Derecho — Ciencias Jurídicas y Sociales
 - 🔭 Mentor NASA Space Apps Jalapa · Padrino de Clubes de Ciencias (SENACYT)
 - 📫 Abierto a oportunidades en tecnología, soporte IT y redes
