@@ -1,3 +1,5 @@
+![Proyectos de Marlon](banner-proyectos.png)
+
 # Marlon Estuardo Alvarado Kuckling
 
 **Ingeniero Industrial (UVEG, México) · Estudiante de último año de Derecho · Guatemala**
